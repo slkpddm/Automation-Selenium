@@ -1,0 +1,45 @@
+2022-09-11 12:48:50,481 : INFO : pythonTesting.test_logging : Ths is about to give informaton
+2022-09-11 12:48:50,482 : WARNING : pythonTesting.test_logging : This is about warning
+2022-09-11 12:48:50,482 : ERROR : pythonTesting.test_logging : This is about error
+2022-09-11 12:48:50,482 : CRITICAL : pythonTesting.test_logging : This is about critcal msg
+2022-09-11 12:49:54,962 : INFO : pythonTesting.test_logging : Ths is about to give informaton
+2022-09-11 12:49:54,962 : WARNING : pythonTesting.test_logging : This is about warning
+2022-09-11 12:49:54,962 : ERROR : pythonTesting.test_logging : This is about error
+2022-09-11 12:49:54,963 : CRITICAL : pythonTesting.test_logging : This is about critcal msg
+2022-09-11 13:13:44,556 : INFO : pythonTesting.BaseClass : suneni
+2022-09-11 13:13:44,556 : INFO : pythonTesting.BaseClass : Kualayappa
+2022-09-11 13:13:44,556 : INFO : pythonTesting.BaseClass : skp@gmail.com
+2022-09-11 13:16:40,497 : INFO : pythonTesting.BaseClass : suneni
+2022-09-11 13:16:40,497 : INFO : pythonTesting.BaseClass : Kualayappa
+2022-09-11 13:16:40,498 : INFO : pythonTesting.BaseClass : skp@gmail.com
+2022-09-11 13:18:15,117 : INFO : test_editProfile : suneni
+2022-09-11 13:18:15,118 : INFO : test_editProfile : Kualayappa
+2022-09-11 13:18:15,118 : INFO : test_editProfile : skp@gmail.com
+2022-09-11 13:18:42,707 : INFO : test_editProfile : suneni
+2022-09-11 13:18:42,707 : INFO : test_editProfile : Kualayappa
+2022-09-11 13:18:42,707 : INFO : test_editProfile : skp@gmail.com
+2022-09-11 13:18:42,723 : INFO : pythonTesting.test_logging : Ths is about to give informaton
+2022-09-11 13:18:42,723 : WARNING : pythonTesting.test_logging : This is about warning
+2022-09-11 13:18:42,723 : ERROR : pythonTesting.test_logging : This is about error
+2022-09-11 13:18:42,723 : CRITICAL : pythonTesting.test_logging : This is about critcal msg
+2022-09-11 13:22:08,449 : INFO : test_editProfile : suneni
+2022-09-11 13:22:08,449 : INFO : test_editProfile : Kualayappa
+2022-09-11 13:22:08,449 : INFO : test_editProfile : skp@gmail.com
+2022-09-11 13:22:08,451 : INFO : pythonTesting.test_logging : Ths is about to give informaton
+2022-09-11 13:22:08,452 : WARNING : pythonTesting.test_logging : This is about warning
+2022-09-11 13:22:08,452 : ERROR : pythonTesting.test_logging : This is about error
+2022-09-11 13:22:08,452 : CRITICAL : pythonTesting.test_logging : This is about critcal msg
+2022-09-11 13:25:36,330 : INFO : test_editProfile : suneni
+2022-09-11 13:25:36,331 : INFO : test_editProfile : Kualayappa
+2022-09-11 13:25:36,331 : INFO : test_editProfile : skp@gmail.com
+2022-09-11 13:25:36,333 : INFO : pythonTesting.test_logging : Ths is about to give informaton
+2022-09-11 13:25:36,333 : WARNING : pythonTesting.test_logging : This is about warning
+2022-09-11 13:25:36,333 : ERROR : pythonTesting.test_logging : This is about error
+2022-09-11 13:25:36,333 : CRITICAL : pythonTesting.test_logging : This is about critcal msg
+2022-09-11 13:30:51,101 : INFO : test_editProfile : suneni
+2022-09-11 13:30:51,101 : INFO : test_editProfile : Kualayappa
+2022-09-11 13:30:51,101 : INFO : test_editProfile : skp@gmail.com
+2022-09-11 13:30:51,104 : INFO : pythonTesting.test_logging : Ths is about to give informaton
+2022-09-11 13:30:51,104 : WARNING : pythonTesting.test_logging : This is about warning
+2022-09-11 13:30:51,104 : ERROR : pythonTesting.test_logging : This is about error
+2022-09-11 13:30:51,104 : CRITICAL : pythonTesting.test_logging : This is about critcal msg
